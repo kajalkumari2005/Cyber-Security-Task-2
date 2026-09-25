@@ -1,0 +1,12 @@
+NETWORK TOPOLOGY
+
+[Kali Linux]
+IP: 10.0.2.15
+       |
+       |
+[VirtualBox NAT]
+Gateway: 10.0.2.2
+       |
+       |
+[Internet / DNS]
+example.com
